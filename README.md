@@ -258,8 +258,8 @@ interface PriceData {
 
 1. **克隆仓库**
 ```bash
-git clone https://github.com/yin102570/myopia-risk-app.git
-cd myopia-risk-app/stock-monitor
+git clone https://github.com/yin102570/Stock-Monitor.git
+cd Stock-Monitor
 ```
 
 2. **安装依赖**
